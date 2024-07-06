@@ -10,7 +10,7 @@ class Landing {
         this.element.classList.add("Landing");
         // ISI DARI "LANDING"
         this.element.innerHTML = (`
-            <div class="Title">KIRIMIN</div>
+            <div class="Title">AXOO ID</div>
             <div class="Desc">Login dulu ya untuk melanjutkan</div>
             <div class="Tombol">
                 <button class="btn-1 chooseEmail"><i class="far fa-envelope"></i>Email</button>
